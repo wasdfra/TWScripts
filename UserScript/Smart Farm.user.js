@@ -4,8 +4,8 @@
 // @description  Smart farm script for better farming
 // @match        https://*.tribalwars.com.pt/*screen=am_farm*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tribalwars.com.br
-// @downloadURL  https://raw.githubusercontent.com/victorgare/tribalwars/master/UserScript/SmartFarm.user.js
-// @updateURL    https://github.com/victorgare/tribalwars/raw/master/UserScript/SmartFarm.user.js
+// @downloadURL  https://raw.githubusercontent.com/wasdfra/TWScripts/master/UserScript/Smart%20Farm.user.js
+// @updateURL    https://github.com/wasdfra/TWScripts/raw/master/UserScript/Smart%20Farm.user.js
 // @run-at document-end
 // @run-at document-idle
 // ==/UserScript==

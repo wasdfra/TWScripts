@@ -4,7 +4,7 @@
 // @description  Coleta informações dos plyers do mapa!
 // @include     https://*tribalwars*screen=map*
 // @require     https://code.jquery.com/jquery-2.2.4.min.js
-// @downloadURL https://raw.githubusercontent.com/victorgare/tribalwars/master/UserScript/Estatisticas.user.js
+// @downloadURL https://raw.githubusercontent.com/wasdfra/TWScripts/master/UserScript/Estatisticas.user.js
 // @updateURL   https://github.com/wasdfra/TWScripts/raw/master/UserScript/Estatisticas.user.js
 // @run-at      document-end
 // ==/UserScript==
